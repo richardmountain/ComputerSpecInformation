@@ -1,5 +1,5 @@
 # ComputerSpecInformation
-This small application runs in Windows, and will display live information about your computer.
+This small .NET application runs in Windows, and will display live information about your computer.
 
 This information includes:
  * CPU usage
